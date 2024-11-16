@@ -1,8 +1,8 @@
-import React from 'react';
+
 import { Plus, Star } from 'lucide-react';
 import { useSetRecoilState } from 'recoil';
 import { toast } from 'react-hot-toast';
-import { cartState, CartItem } from '../../state/atoms';
+import { cartState,  } from '../../state/atoms';
 
 interface MenuItemProps {
   id: string;

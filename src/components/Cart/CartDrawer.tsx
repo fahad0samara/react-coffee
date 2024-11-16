@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { useRecoilState } from 'recoil';
 import { X } from 'lucide-react';
 import { cartState } from '../../state/atoms';

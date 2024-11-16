@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Coffee, Settings, CreditCard, Coffee as CoffeeIcon } from 'lucide-react';
 
 const steps = [
