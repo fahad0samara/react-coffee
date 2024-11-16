@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-emerald-900;
+  }
+}
+
+@layer utilities {
+  .transition {
+    @apply duration-300 ease-in-out;
+  }
+}
