@@ -1,8 +1,10 @@
-
-
 # React Coffee ☕
 
 A modern coffee shop web application built using **React** and **Recoil** for state management. This project showcases smooth state handling and responsive design tailored for a coffee ordering experience.
+
+![screencapture-localhost-5173-2024-11-16-15_37_00](https://github.com/user-attachments/assets/45e3c6b6-7a33-4443-b249-d7663c0861d0)
+
+
 
 ## Features
 
